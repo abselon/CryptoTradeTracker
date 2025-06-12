@@ -16,6 +16,7 @@ expo-env.d.ts
 *.p8
 *.p12
 *.key
+temp_auto_push.bat
 *.mobileprovision
 
 # Metro
@@ -35,3 +36,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+.gitignore
+temp_interactive_push.bat
